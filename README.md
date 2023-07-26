@@ -15,3 +15,7 @@
 <h3><img src="https://shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<h2>Contact:</h2>
+<p>
+<a href="mailto:tumchik1@gmail.com">send email</a>
+</p>
